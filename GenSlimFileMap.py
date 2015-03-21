@@ -41,7 +41,6 @@ if __name__ == "__main__":
 	filemap.write('include .\n')
 	for folder in exclude_folders:
 		filemap.write('include "%s/build/cmake"\n' % folder)
-		filemap.write('include "%s/Patches"\n' % folder)
 	filemap.write('\n')
 	filemap.write('exclude ".hgtags"\n')
 	filemap.write('exclude "External"\n')
