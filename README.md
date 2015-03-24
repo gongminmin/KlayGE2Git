@@ -1,5 +1,5 @@
 # KlayGE2Git
-Tools for conversion to Git for KlayGE.
+Tools for conversion to Git for KlayGE. The resulting git repository can be located in https://github.com/gongminmin/KlayGE.
 
 ## Requirements
 
